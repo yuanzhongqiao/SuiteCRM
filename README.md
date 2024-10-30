@@ -20,6 +20,11 @@
 [Extensions Directory](https://store.suitecrm.com/) |
 [Translations](https://crowdin.com/project/suitecrmtranslations) | [Code of Conduct](https://docs.suitecrm.com/community/code-of-conduct/)
 
+SuiteCRM 是屡获殊荣的开源企业级客户关系管理 （CRM） 软件应用程序。
+
+我们的愿景是成为世界上采用最广泛的开源企业 CRM，让用户能够完全控制他们的数据，并自由拥有和定制他们的业务解决方案。
+
+
 [SuiteCRM](https://suitecrm.com) is the award-winning open-source, enterprise-ready Customer Relationship Management (CRM) software application.
 
 Our vision is to be the most adopted open source enterprise CRM in the world, giving users full control of their data and freedom to own and customise their business solution.
